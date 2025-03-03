@@ -59,7 +59,9 @@ Prueba el analizador con estas expresiones:
 
 ## ✨ Autores
 - **Denil José Parada Cabrera - 24761**
-- **Joel Arodi**
+- **Joel
+- Arodi Josué Chávez Ramírez - 241112
+
 
 ## 📜 Licencia
 Este proyecto es de código abierto y puedes usarlo con fines educativos.
